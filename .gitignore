@@ -1,0 +1,51 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+# Windows
+thumbs.db
+
+# Mac OSX
+.DS_Store
+__MACOSX
+installADB.sh
+
+# IntelliJ Idea
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Eclipse
+.project
+.classpath
+.settings/
+.checkstyle
+.pmd
+.externalToolBuilders/
+
+# Android SDK
+bin/
+gen/
+libs/
+tmp/
+local.properties
+
+# Maven
+classes/
+target/
+*.releaseBackup
+*.versionsBackup
+release.properties
+
+# Vi temp files
+*.swp
+*~
+
+#Apk
+apk/
+
+#Crashlytics configuration
+crashlytics.properties
